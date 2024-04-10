@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "name":" verka milk",
+        "price": 30,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name":" verka butter",
+        "price": 20,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" verka Ghee",
+        "price": 500,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" verka lassi",
+        "price": 40,
+        "image": "image/4.png"
+    }
+    
+    
+    
+    
+
+]
